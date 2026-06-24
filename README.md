@@ -63,11 +63,17 @@ Target Device: Xilinx Spartan-7 (xc7s50csga324-1)
 Resource Utilization:
 
 LUTs       : 82
+
 Registers  : 114
+
 LUTRAM     : 16
+
 Timing Results
+
 Worst Negative Slack (WNS) : +5.223 ns
+
 Total Negative Slack (TNS) : 0 ns
+
 Failing Endpoints          : 0
 
 The design successfully met timing requirements after implementation.
