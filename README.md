@@ -97,3 +97,8 @@ FPGA Synthesis and Implementation Flow
 Static Timing Analysis (STA)
 Digital Design Methodology
 Short GitHub Tagline
+
+
+<img width="897" height="402" alt="image" src="https://github.com/user-attachments/assets/efbdaa6a-5a73-45f5-8032-3b78b356f1ad" />
+
+
